@@ -1,0 +1,1 @@
+natural numbers are from 0 to 10
